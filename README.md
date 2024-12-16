@@ -1,2 +1,2 @@
-# Lazebot.io
-This app is meant to automate rar and zip file extractions.
+# CryptoBot
+This app is meant to help with trading a coin
